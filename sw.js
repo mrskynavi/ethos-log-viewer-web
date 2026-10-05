@@ -1,6 +1,6 @@
 // Service Worker: hält die App offline verfügbar. VERSION setzt scripts/build-pwa.js bei jedem Build neu,
 // damit Geräte nach einer Änderung die neuen Dateien holen und den alten Cache löschen.
-const VERSION = '1.3.0-07ce09ce53';
+const VERSION = '1.3.0-310263b813';
 const CACHE = 'ethoslv-' + VERSION;
 const SHELL = ["./","index.html","chart.umd.min.js","manifest.webmanifest","icons/apple-touch-icon.png","icons/favicon-32.png","icons/icon-192.png","icons/icon-512.png","icons/maskable-512.png"];
 
