@@ -6,4 +6,4 @@ Wertet Telemetrie-Logs (CSV) von Ethos-Sendern im Browser aus. Die Logs bleiben 
 
 Installieren: iPhone/iPad in Safari „Teilen → Zum Home-Bildschirm“, Android in Chrome „App installieren“. Nach dem ersten Öffnen läuft die App auch ohne Netz.
 
-Dieses Repo enthält nur die fertig gebaute Seite (`npm run build-pwa -- --beispiel-verschoben`, Beispiel-Log mit verschobener GPS-Spur). Stand: 8e0eec2.
+Dieses Repo enthält nur die fertig gebaute Seite (`npm run build-pwa -- --beispiel-verschoben`, Beispiel-Log mit verschobener GPS-Spur). Stand: 6ea09b4 (Version 2026.10.0).
